@@ -1,3 +1,3 @@
 Привет всем
 Меня зовут Иван
-ysqa1fQYJuE.jpg
+![Alt text](../ysqa1fQYJuE.jpg)
